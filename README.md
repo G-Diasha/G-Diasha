@@ -11,7 +11,7 @@ I’ve worked on multiple **machine learning projects**, continuously expanding 
 
 Alongside ML and AI, I’m currently strengthening my skills in **Docker** and **AWS**, with a focus on building scalable and production-ready systems.
 
-I’m actively looking for **graduate-level roles** where I can contribute, learn, and grow — and I’m also very open to pursuing a **PhD** in Robotics, AI, or Machine Learning.
+I’m actively looking for **graduate-level roles** where I can contribute, learn, and grow — and I’m also very open to pursuing a **PhD** in AI, or Machine Learning.
 
 ---
 
