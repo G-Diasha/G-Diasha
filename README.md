@@ -2,7 +2,7 @@
 
 🤖 **Robotics & AI Graduate**  
 🧠 **Machine Learning | Artificial Intelligence | LLMs**  
-🔍 Actively seeking **Graduate Opportunities** | Open to **PhD positions**
+🔍 Actively seeking **Graduate Opportunities** 
 
 ## 🌟 About Me
 I’m a Robotics and Artificial Intelligence graduate with a strong passion for **Machine Learning, AI systems, and intelligent robotics**. I enjoy building data-driven solutions, experimenting with modern ML techniques, and exploring how AI can be applied to real-world problems.
